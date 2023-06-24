@@ -4,7 +4,7 @@
 3. Utilized the Streamlit library to create an interactive and user-friendly web interface for the password generator.
 4. Implemented features such as allowing the user to specify the minimum password length and choose whether to include numbers and special characters in the generated password.
 5. Demonstrated problem-solving skills by incorporating conditional logic to meet the user's specified criteria for password generation.
-
+![Screenshot 2023-06-24 133349](https://github.com/aman9650/Python_Projects/assets/97427361/56dd1350-859d-4aff-b7e2-3774ed4395e6)
 
 
 
