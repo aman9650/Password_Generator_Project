@@ -1,10 +1,15 @@
-# Diamond_price_Analysis_and_Visualisation
-1. Exploratory data Analysis in Python 
-2. Connecting the cleaned data with Mysql for futher Analysis
-3. Connecting Mysql with tableau for real time visualisation
-4. You can add data in SQL and it will be reflected in Tableau.
-This is because Tableau connects to the data source and retrieves the data, so any changes made to the data in the source will be reflected in Tableau.
+# Password_Generator_With_Streamlit
+1. Developed a password generator web application using Python and the Streamlit library.
+2. Implemented the password generation logic using the string and random libraries to ensure secure and random password generation.
+3. Utilized the Streamlit library to create an interactive and user-friendly web interface for the password generator.
+4. Implemented features such as allowing the user to specify the minimum password length and choose whether to include numbers and special characters in the generated password.
+5. Demonstrated problem-solving skills by incorporating conditional logic to meet the user's specified criteria for password generation.
 
-![Screenshot_20230115_093743](https://user-images.githubusercontent.com/97427361/212552449-bd018b6e-e8e8-4c9c-af19-f244ae15213a.png)
+
+
+
+Password generators offer several benefits in real-world scenarios. Firstly, they enhance security by generating strong, random passwords that are difficult to guess or crack. This significantly reduces the risk of unauthorized access to sensitive information, protecting both individuals and organizations.
+
+Secondly, password generators save time and effort by automatically generating complex passwords. Instead of manually coming up with passwords, users can rely on the generator to create strong passwords quickly, improving efficiency.
 
 
